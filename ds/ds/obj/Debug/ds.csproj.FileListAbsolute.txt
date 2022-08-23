@@ -1,0 +1,10 @@
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\bin\Debug\ds.exe.config
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\bin\Debug\ds.exe
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\bin\Debug\ds.pdb
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\obj\Debug\ds.csprojAssemblyReference.cache
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\obj\Debug\ds.Form1.resources
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\obj\Debug\ds.Properties.Resources.resources
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\obj\Debug\ds.csproj.GenerateResource.cache
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\obj\Debug\ds.csproj.CoreCompileInputs.cache
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\obj\Debug\ds.exe
+C:\Users\Aluno-ETEC\Desktop\aula\ds\ds\obj\Debug\ds.pdb
